@@ -1,2 +1,3 @@
 # robot-public
-repository with modules for everybody.
+
+In this repository will be located modules that are ready for useing.
